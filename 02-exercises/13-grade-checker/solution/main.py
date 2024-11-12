@@ -1,4 +1,4 @@
-score = int(input("Enter your score (0-100): "))
+score = int(input("Indtast din score (0-100): "))
 if score >= 90:
     print("Grade: A")
 elif score >= 80:

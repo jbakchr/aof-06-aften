@@ -1,7 +1,7 @@
-num = int(input("Enter a number: "))
+num = int(input("Indtast et tal: "))
 if num > 0:
-    print("The number is positive.")
+    print("Tallet er positivt.")
 elif num < 0:
-    print("The number is negative.")
+    print("Tallet er negativt.")
 else:
-    print("The number is zero.")
+    print("Taller er nul.")
