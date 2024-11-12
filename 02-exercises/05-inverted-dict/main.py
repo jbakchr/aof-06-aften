@@ -11,5 +11,4 @@ outputtet af din kode derfor bliver følgende:
 }
 """
 
-# Example usage
 dictator = {"name": "Guido", "age": 68, "title": "dictator"}
