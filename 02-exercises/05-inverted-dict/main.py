@@ -5,9 +5,9 @@ Din opgave er at invertere denne dict, således at dens 'keys' og 'values' vende
 outputtet af din kode derfor bliver følgende:
 
 {
-    "name": "Guido",
-    "age": 68,
-    "title": "dictator"
+    "Guido": "name",
+    68: "age",
+    "dictator": "title"
 }
 """
 
